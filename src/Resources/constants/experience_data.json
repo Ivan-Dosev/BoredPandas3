@@ -1,0 +1,47 @@
+[
+    {
+        "company" : "Phase 1",
+        "title" : "Launch",
+        "duration" : "08.08.2022",
+        "description" : 
+        [
+            "10 001 Bored Pandas will be available for mint from everyone interested in our exciting project. ",
+            "There will be no pre-sale."
+        ]
+        
+    },
+    {
+        "company" : "Phase 2",
+        "title" : "Build",
+        "description" : 
+        [   "We don't want to give fancy, but empty promises like most of the NFTs project out there, therefore we will keep it simple.",
+            "Our goal is to build and grow a community of people around their favorite action sport. Similar to what the large energy-drink/action-camera companies are doing, but we want to build it around the Blockchain/Web3 enthusiasts.",
+            "All those large corporations support professional and elite athletes, but there are very talented people who need help before they get recognized and sponsored.",
+            "Therefore, the aim of this project is to connect and help us establish a good collaboration with brands and influential people in our sector."
+        ]
+        
+    },
+    {
+        "company" : "Phase 3",
+        "title" : "Growth",
+        "description" : 
+        [
+            "We would like to design and launch our own inspirational merchandise.",
+            "Bored Panda owners will have exclusive advantages!",
+            "Holders will also get exclusive rights to partner with brands for any kind of business, trade or collaboration."
+        ]
+        
+    },
+    {
+        "company" : "Phase 4",
+        "title" : "Return",
+        "description" : 
+        [
+            "We want to bring value back to our NFT community.",
+            "Therefore we will create and launch exclusive Web3 Airdrops that will generate additional value to our community, completely for free to all Panda owners.",
+            "Stay tuned, it will be epic and also full of adrenaline!"
+
+        ]
+        
+    }
+]

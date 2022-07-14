@@ -1,0 +1,64 @@
+[
+    {
+        "company" : "Why Bored Pandas",
+        "title" : "What makes our project different?",
+        "description" : 
+        [
+            "As early adopters of the Blockchain technology, our team strongly believes in the advantages of the decentralized web. We concede that the next generation of business ideas should not be controlled by centralized corporations, but by the individuals who are using them. As a result of that we created a fully decentralized NFT collection to back up the development of our action-sport community.",
+            "The ultimate goal will be to create the largest adventure community that will be able to govern itself using the Web3 technology."
+        ]
+        
+    },
+    {
+        "company" : "Release info",
+        "title" : "What is the mint date and supply?",
+        "description" : 
+        [
+            "Release date is 08.08.2022.",
+            "The total supply will be 10 001 NFTs.",
+            "The max amount per transaction will be limited to 5 pcs."
+        ]
+        
+    },
+    {
+        "company" : "What do I get in return",
+        "title" : "What is the advantage of owning a Bored Panda?",
+        "description" : 
+        [
+            "First, you get into a community of action-sport enthusiasts who share a common passion.",
+            "Second, you will get exclusive advantages when we launch our merchandise.",
+            "Third, you will get exclusive rights to partner with bands for any kind of business, trade or collaboration.",
+            "Last but not least, you will be part of our Airdrop, where we will release new and very exciting benefits.",
+            "The success of the project depends on many factors. We do not have a crystal ball, so it is impossible to know how it will go, but we strongly believe in it and think it has a bright future ahead."
+        ]
+        
+    },
+    {
+        "company" : "How do I get involved",
+        "title" : "Sounds awesome, right?",
+        "description" : 
+        [
+            "A great place to start is our Discord, home to a very large and very active community of Bored Panda enthusiasts. You don't need to be a holder to join us there! All are welcome to jump into the conversation, let us know your ideas, and hang out with many others who like the project!"
+        ]
+        
+    },
+    {
+        "company" : "What are NFTs and Ethereum",
+        "title" : "How are they used?",
+        "description" : 
+        [
+            "A non-fungible token (NFT) is a non-interchangeable unit of data stored on a blockchain, a form of digital ledger, that can be sold and traded.",
+            "Ethereum is the community-run technology powering the cryptocurrency ether (ETH) and thousands of decentralized applications. "
+        ]
+        
+    },
+    {
+        "company" : "Usage info",
+        "title" : "How can I use my NFT collection?",
+        "description" : 
+        [
+            "Owning a Bored Panda NFT gives you the rights to use the art for any legal purpose as long as it is not changed or modified. Your ownership will be recorded on Ethereum, so that you can prove it upon requests."
+        ]
+        
+    }
+]
