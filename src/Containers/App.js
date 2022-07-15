@@ -222,3 +222,5 @@ class App extends PureComponent {
 
 
 export default App;
+
+//<li onClick={()=> this.addTab("Minting")}>Mint</li>  line 192
